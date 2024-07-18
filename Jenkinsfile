@@ -7,7 +7,7 @@ pipeline {
     }
 */
     environment {
-        registry = "samaddo-FIFA/cicd"
+        registry = "samaddoboadi24/cicd"
         registryCredential = 'dockerhub'
     }
 
